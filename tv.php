@@ -1,4 +1,5 @@
 <?php
+//php is wonderfull language
 include("connection.php");
 ?>
 <!DOCTYPE html>
